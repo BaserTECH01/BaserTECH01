@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ismail baser
 - 👀 I’m interested in iot and electronics
-- 🌱 I’m currently learning some lectronic things
+- 🌱 I’m currently learning some electronic things
 - 💞️ I’m looking to collaborate on iot projects 
 - 📫 How to reach me basertech@gmail.com
 <!---
